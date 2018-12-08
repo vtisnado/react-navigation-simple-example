@@ -3,7 +3,8 @@ This is a very simple example in how to use **React Navigation**.
 
 ## How to run
 1. Clone this repo `git clone https://github.com/vtisnado/react-navigation-simple-example`
-2. run `npm install` to install all the packages or manually install React Navigation with `npm i -S react-navigation` and `npm i -S react-native-gesture-handler`.
+2. Run `npm install` to install all the packages or manually install React Navigation with `npm i -S react-navigation` and `npm i -S react-native-gesture-handler`.
+3. You also need to link dependencies with `react-native link react-native-gesture-handler`
 
 No additional steps are required for iOS.
 
