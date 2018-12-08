@@ -38,5 +38,5 @@ public class MainActivity extends ReactActivity {
 
 Always check the latest changes in the official documentation: https://reactnavigation.org/docs/en/getting-started.html
 
-[Alt text](/react-navigation-example-1.png?raw=true "React Navigation Home")
-[Alt text](/react-navigation-example-2.png?raw=true "React Navigation Second Screen")
+![Alt text](/react-navigation-example-1.png?raw=true "React Navigation Home")
+![Alt text](/react-navigation-example-2.png?raw=true "React Navigation Second Screen")
